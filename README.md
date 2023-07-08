@@ -1,4 +1,5 @@
 Hi there 👋, My name is Bolaji Shola
+
 Recent Data Analyst looking to take the first step into a new career.
 
 💫 Little Bit More About Me
