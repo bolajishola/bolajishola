@@ -1,8 +1,24 @@
-- 👋 Hello, I am Bolaji Shola
-- 👀 I am a Data Analyst and a BI Analyst
-- 🌱 I am versed in Excel, SQL and Power BI 
-- 💞️ I’m looking for gig and ready to collaborate on projects
-- 📫 You can reach me on bolaji.shola@gmail.com
+Hi there 👋, My name is Bolaji Shola
+Recent Data Analyst looking to take the first step into a new career.
+
+💫 Little Bit More About Me
+
+INTERESTS:
+
+🤩 Improving my Analysing skills with the latest Technology 🤩
+
+💻 New Technologies
+
+💸 High interest in the Sales and Financial Trends.
+
+🖥 Business Intelligent Analyst.
+
+👨‍🏫 Data Analysis.
+
+💻 Skills
+      
+
+👥 Connect With Me
 
 <!---
 bolajishola/bolajishola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
