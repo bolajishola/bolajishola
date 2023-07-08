@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bolajishola
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me +2348112355457
+- 👀 I am a Data Analyst and a BI Analyst
+- 🌱 I am versed in Excel, SQL and Power BI 
+- 💞️ I’m looking for gig and ready to collaborate on projects
+- 📫 You can reach me bolaji.shola@gmail.com
 
 <!---
 bolajishola/bolajishola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
