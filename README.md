@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bolajishola
+- 👋 Hello, I am Bolaji Shola
 - 👀 I am a Data Analyst and a BI Analyst
 - 🌱 I am versed in Excel, SQL and Power BI 
 - 💞️ I’m looking for gig and ready to collaborate on projects
