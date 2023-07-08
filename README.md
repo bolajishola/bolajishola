@@ -1,6 +1,6 @@
 Hi there 👋, My name is Bolaji Shola
 
-Recent Data Analyst looking to take the first step into a new career.
+Data Analyst looking for Gig and to Corroborate in projects.
 
 💫 Little Bit More About Me
 
@@ -10,16 +10,14 @@ INTERESTS:
 
 💻 New Technologies
 
-💸 High interest in the Sales and Financial Trends.
+💸 High interest in Sales and Financial Trends.
 
 🖥 Business Intelligent Analyst.
 
 👨‍🏫 Data Analysis.
 
-💻 Skills
+💻 Data Visualization
       
-
-👥 Connect With Me
 
 <!---
 bolajishola/bolajishola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
